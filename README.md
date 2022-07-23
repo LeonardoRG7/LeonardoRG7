@@ -1,5 +1,17 @@
 👋 Hola a todo soy Leonardo Riascos Guerrero
 
+```shell
+ { “name” : “Verónica Moreno Flores”,
+   “role” : “Frontend Dev | MERN Stack”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Resume"   : "https://veromoreno.github.io/",
+      "IG"       : "https://www.instagram.com/veritechie"
+     }
+ }
+```
+
 <h4>Lenguaje de programación </h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
