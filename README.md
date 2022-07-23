@@ -5,7 +5,7 @@
    “datos” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/leonardo-riascos-20b466200", 
-      "Sitio web"       : "https://leonardoriascosportafolio.netlify.app/"
+      "Sitio web" : "https://leonardoriascosportafolio.netlify.app/"
      }
  }
 ```
@@ -35,15 +35,13 @@ positiva y la voluntad y la motivación de adquirir nuevos conocimientos.
 </p>
 
 
-### <h4>Contacto</h4> 
+### <h4>Plataforma de cursos realizados</h4> 
   <p>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
  </p>
  
- [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 
-### 🌱 Actualmente estoy aprendiendo... 
+### 📚 Actualmente estoy aprendiendo... 
 
 - Avanzar JavaScript
 - Avanzar React JS
