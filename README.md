@@ -10,6 +10,10 @@
  }
 ```
 
+Soy estudiante de ingeniería Informática actualmente de ultimos semestres. Joven responsable, puntual, creativo, 
+trabajador en busca de empleo, dispuesto para utilizar mis habilidades. Tecnológicamente hábil, aporto una actitud
+positiva y la voluntad y la motivación de adquirir nuevos conocimientos.
+
 <h4>Lenguaje de programación</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -37,7 +41,7 @@
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </p>
  
-
+ [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 
 ### 🌱 Actualmente estoy aprendiendo... 
 
