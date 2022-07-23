@@ -41,8 +41,8 @@ positiva y la voluntad y la motivación de adquirir nuevos conocimientos.
  </p>
  
 
-### 📚 Actualmente estoy aprendiendo... 
+### 📚 Actualmente sigo aprendiendo... 
 
-- Avanzar JavaScript
-- Avanzar React JS
+- JavaScript
+- React JS
 - Desarrollo Full Stack
