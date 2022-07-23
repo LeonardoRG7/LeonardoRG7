@@ -22,7 +22,7 @@
 
 ### <a href="https://www.linkedin.com/in/leonardo-riascos-20b466200" target="blank">
   
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)" alt="leonardo" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/leonardo-riascos-20b466200" target="_blank">Leonardo Riascos Guerrero</a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2596be)]" alt="leonardo" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/leonardo-riascos-20b466200" target="_blank">Leonardo Riascos Guerrero</a>
 
 
 ### 🌱 Actualmente estoy aprendiendo... 
