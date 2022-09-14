@@ -10,9 +10,9 @@
  }
 ```
 
-Soy estudiante de ingeniería Informática actualmente de ultimos semestres. Joven responsable, puntual, creativo, 
-trabajador en busca de empleo, dispuesto para utilizar mis habilidades. Tecnológicamente hábil, aporto una actitud
-positiva y la voluntad y la motivación de adquirir nuevos conocimientos.
+Hola, mi nombre es Leonardo Riascos Guerrero soy estudiante de la carrera ingeniería informática de la Corporación Universitaria Autónoma de Nariño actualmente cursando últimos semestres. mi pasión por la tecnología y la informática hizo crecer mi interés por la programación. Fue así que decidí estudiar más a fondo sobre el desarrollo web realizando cursos en Udemy, YouTube y OpenBootCamp. 
+
+Durante mi formación he aprendido diversas tecnologías y métodos de trabajo enfocados al desarrollo. Decidí́ consolidar mis conocimientos con varios proyectos tanto individuales como grupales junto a mis compañeros de universidad. Continúo formándome diariamente y mi pasión por la programación y tecnología va en aumento. Me considero una persona puntual, creativo, tecnológicamente hábil, puedo desempeñarse en roles que me asignen. Trabajo bien en equipo y considero que tener un buen ambiente en el trabajo.
 
 <h4>Lenguaje de programación</h4>
 <p>
