@@ -45,5 +45,6 @@ Durante mi formación he aprendido diversas tecnologías y métodos de trabajo e
 ### 📚 Actualmente sigo aprendiendo... 
 
 - JavaScript
-- React JS
+- TypeScript
+- Angukar JS
 - Desarrollo Full Stack
