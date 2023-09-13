@@ -1,7 +1,8 @@
 ```shell
- { “nombre” : “Leonardo”,
+ {
+   “nombre” : “Leonardo”,
    “apellidos” : “Riascos Guerrero”,
-   “area” : “Frontend Dev”,
+   “area” : “Frontend Developer”,
    “datos” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/leonardo-riascos-20b466200", 
