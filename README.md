@@ -18,7 +18,7 @@ Durante mi formación he aprendido diversas tecnologías y métodos de trabajo e
 <h4>Lenguaje de programación</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Typescrip-blue?style=for-the-badge&logo=Typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white">
 </p>
 
 <h4>Frameworks y herramientas web</h4>
