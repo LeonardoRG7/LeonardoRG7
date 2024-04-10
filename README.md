@@ -63,5 +63,5 @@ Durante mi formación he aprendido diversas tecnologías y métodos de trabajo e
 
 - JavaScript
 - TypeScript
-- Angukar JS
+- Angular JS
 - Desarrollo Full Stack
